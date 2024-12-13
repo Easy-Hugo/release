@@ -7,6 +7,13 @@ Because I haven't purchased a developer account, I'm temporarily publishing apk 
 
 ## Release
 
+### 1.0.10
+
+- Date: 2024-12-13
+- Version: [1.0.10]
+- When setting the title, you can click on a blank space to hide the keyboard.
+- Change the keyboard done button to next
+
 ### 1.0.9
 
 #### Add Recent Files History Feature
