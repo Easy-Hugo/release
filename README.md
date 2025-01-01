@@ -7,6 +7,14 @@ Because I haven't purchased a developer account, I'm temporarily publishing apk 
 
 ## Release
 
+### 1.0.11
+
+#### Add undo and redo
+
+- Date: 2025-01-01
+- Version: [1.0.11]
+- Add undo and redo
+
 ### 1.0.10
 
 - Date: 2024-12-13
