@@ -7,6 +7,22 @@ Because I haven't purchased a developer account, I'm temporarily publishing apk 
 
 ## Release
 
+### 1.0.13
+
+#### Adjust the editing toolbar
+
+- Date: 2025-01-09
+- Version: [1.0.13]
+- Adjust the editing toolbar
+
+### 1.0.12
+
+#### Add undo and redo
+
+- Date: 2025-01-02
+- Version: [1.0.12]
+- Fix content bug
+
 ### 1.0.11
 
 #### Add undo and redo
